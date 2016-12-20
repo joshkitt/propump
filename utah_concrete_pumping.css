@@ -42,14 +42,14 @@ a {
     text-decoration: underline;
 }
 .bullet li {
-    list-style-image:url('resources/utah_concrete_pumping_bullet.png');
+    list-style-image:url('./resources/utah_concrete_pumping_bullet.png');
 }
 #body {
     width: 780px;
 }
 .header {
     height:80px;
-    background-image:url('images/utah_concrete_pumping_header.gif');
+    background-image:url('./images/utah_concrete_pumping_header.gif');
     background-repeat:no-repeat;
     padding-left:40px;
     padding-top:3px
