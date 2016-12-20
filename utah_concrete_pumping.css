@@ -49,7 +49,7 @@ a {
 }
 .header {
     height:80px;
-    background-image:url('./images/utah_concrete_pumping_header.gif');
+    background-image:url('./resources/utah_concrete_pumping_header.gif');
     background-repeat:no-repeat;
     padding-left:40px;
     padding-top:3px
